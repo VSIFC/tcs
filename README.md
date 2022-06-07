@@ -2,7 +2,7 @@
 "It's called tea chat session, of course" 
 
 ## What's the point of this repo?
-- **To democratise "talk cock" sessions, s.t any individual alumni, whether freshly graduated from Mother Victoria, doing major exams, cleared BMT, or doing uni can also join the TCS in light of a relatively volatile new-normal.**  
+- **To democratise "talk cock" sessions, s.t any individual, present or past, whether freshly graduated from Mother Victoria, doing major exams, cleared BMT, or doing uni can also join the TCS in light of a relatively volatile new-normal.**  
 
 ## Rules 
 - vulgarities should only be used for historical accuracy - try to put them in quotes. And do not use any to humiliate, bully, or harass any group or individual. As Mr Low Eng Teong, principal who left in 2011 said: "`Don't cheat, don't steal, don't bully, don't lie`". These implicit values were given before PRIDE values solidified these concepts and ideals that have floated around in the VS community for years. #GPS 
@@ -45,5 +45,5 @@ Note: your commits to this repo(aka code base/treasure trove) should follow the 
  
  
 ## Who can change this `README.md`? 
-- As mentioned in the traditional Whatsapp group for all members yesterday, the [mantle of responsbility](https://halo.fandom.com/wiki/Mantle_of_Responsibility) mostly lies on the shoulders of the current sec3s, supported by the sec2s, as well as the advisory sec4s. Then if still cannot solve crisis, its the responsilibility of the current leaders to reach out to the seniors who've walked similar paths before. Invite them for discussion. I am 100% sure statistically, there is minimally 1 alumni every 2 batch would care about the club enough to offer their experience as food for thought, in hopes of helping you mitigate your current crisis. Wtv the crisis may be. If `Mornië alantië`, then stay sanguine, recognise suffering what for it is, gel tgt and defeat the enemy/difficulty, wtv the enemy/difficulty may be.
+- As mentioned in the traditional Whatsapp group for all members yesterday, the [mantle of responsbility](https://halo.fandom.com/wiki/Mantle_of_Responsibility) mostly lies on the shoulders of the current sec3s, supported by the sec2s, as well as the advisory sec4s. Then if still cannot solve crisis, its the responsilibility of the current leaders to reach out to the seniors who've walked similar paths before. Invite them for discussion. I am 100% sure statistically, there is minimally 1 alumni every 2 batch would care about the club enough to offer their experience as food for thought, in hopes of helping you mitigate your current crisis. Wtv the crisis may be. If [`Mornië alantië`](https://en.wikipedia.org/wiki/May_It_Be#:~:text=Morni%C3%AB%20alanti%C3%AB%20translates%20as%20%22Darkness%20has%20fallen.%22), then stay sanguine, recognise suffering what for it is, gel tgt and defeat the enemy/difficulty, wtv the enemy/difficulty may be.
 - **TLDR: only current sec3s, sec4s and nominated alumni(by the existing members) can change**
