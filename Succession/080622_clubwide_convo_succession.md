@@ -20,7 +20,8 @@ If really jialat carelessly the batch vouches for and brings in an asshole, then
 
 ```"the decisions made by one guy could steamroll into a a multitude of effects"``` ~ Uncle R, class of 2022
 
-```"i literally just realised this repo exists. also  ^a a^ 
+```
+"i literally just realised this repo exists. also  ^a a^ 
 
 but I feel like this is important. As mr Carey has tols us, he (and other seniors) are the past, we are the present, our junoirs are the future 
 
