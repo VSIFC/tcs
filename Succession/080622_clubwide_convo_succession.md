@@ -23,6 +23,6 @@ If really jialat carelessly the batch vouches for and brings in an asshole, then
 ```
 "i literally just realised this repo exists. also  ^a a^ 
 
-but I feel like this is important. As mr Carey has tols us, he (and other seniors) are the past, we are the present, our junoirs are the future 
+but I feel like this is important. As mr Carey has told us, he (and other seniors) are the past, we are the present, our junoirs are the future 
 
-this allows us to learn from the past and imbue new experiences to those to come"``` ~ proter1132, class of 2023
+this allows us to learn from the past and imbue new experiences in those to come"``` ~ proter1132, class of 2023
