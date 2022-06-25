@@ -20,4 +20,4 @@ If really jialat carelessly the batch vouches for and brings in an asshole, then
 
 ```"the decisions made by one guy could steamroll into a a multitude of effects"``` ~ Uncle R, class of 2022
 
-```"guys i literally just realised this repo exists also ^a a^"``` ~ proter1132, class of 2023
+```"i literally just realised this repo exists. also  ^a a^"``` ~ proter1132, class of 2023
